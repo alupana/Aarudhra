@@ -15,7 +15,7 @@ const HeroSixSection = () => {
         >
           <Col xs={12}>
             <div className={classes.header_div}>
-              <h2>Testimonials</h2>
+              <h2>Testimonialsssss</h2>
               <p>This is what our client are saying</p>
             </div>
           </Col>

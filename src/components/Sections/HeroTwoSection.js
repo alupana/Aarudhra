@@ -20,7 +20,7 @@ const HeroTwoSection = () => {
           <Col xs={12}>
             <div className={classes.header_div}>
               <h2>Why choose us</h2>
-              <p>This is what makes our product different</p>
+              <p>We are different from others</p>
             </div>
           </Col>
         </Row>

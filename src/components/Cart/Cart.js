@@ -12,7 +12,7 @@ const Cart = (props) => {
 
   //Converting Total amount to two decimal places
 
-  const totalAmount = `₦${cartCtx.totalAmount.toFixed(2)}`;
+  const totalAmount = `₹${cartCtx.totalAmount.toFixed(2)}`;
 
   //ENDS
 

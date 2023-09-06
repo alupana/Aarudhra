@@ -66,7 +66,7 @@ const Footer = () => {
             <div className={classes.social}>
               <h3>Social</h3>
               <a
-                href="https://www.instagram.com/anil.reddy18/"
+                href="https://www.instagram.com/sri_aarudhra_family_restaurant/"
                 target="_blank"
                 rel="noreferrer"
               >

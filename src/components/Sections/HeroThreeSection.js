@@ -15,22 +15,22 @@ const dummyListone = [
   {
     id: "d1",
     src: dish1,
-    name: "Yam and egg sauce",
+    name: "Kamju pitta fry",
     price: 123,
   },
 
   {
     id: "d2",
     src: dish2,
-    name: "Jollof rice and chicken",
-    price: 3500,
+    name: "Tandoori",
+    price: 450,
   },
 
   {
     id: "d3",
     src: dish3,
-    name: "Porridge beans",
-    price: 2000,
+    name: "Kulcha",
+    price: 200,
   },
 ];
 
@@ -38,8 +38,8 @@ const dummyListtwo = [
   {
     id: "d4",
     src: dish4,
-    name: "Semo and egusi soup",
-    price: 5000,
+    name: "Dry Fruit Curd Rice",
+    price: 200,
   },
 
   {

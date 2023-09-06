@@ -19,7 +19,7 @@ const HeroFiveSection = () => {
         >
           <Col xs={12}>
             <div className={classes.header_div}>
-              <h2>Get our mobile app</h2>
+              <h2>Get our mobile application</h2>
               <p>Enjoy better experience</p>
             </div>
           </Col>
